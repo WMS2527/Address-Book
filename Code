@@ -1,0 +1,62 @@
+# Address Book
+
+# Variable Definition
+Caleb_Name = "Caleb Wall"
+Caleb_Age = "16"
+Caleb_Grade = "Junior"
+Caleb_DL = "No"
+Caleb_Email = "278472@burlcoschools.org" 
+
+Andrew_Name="Andrew Rapetti"
+Andrew_Age="16"
+Andrew_Grade="11th"
+Andrew_DL="No"
+Andrew_Email="278430@burlcoschools.org"
+
+Chris_Name="Chris Davis"
+Chris_Age:="16"
+Chris_Grade="Junior"
+Chris_DL="False"
+Chris_Email="269329@burlcoschools.org"
+
+Martins_Name="Martins Jr Agbakwu"
+Martins_Age="16"
+Martins_Grade="Super Senior"
+Martins_DL="Nope"
+Martins_Email="278827@burlcoschools.org"
+
+Wes_Name="Wes Spaugh”
+Wes_Age="16”
+Wes_Grade="11th”
+Wes_DL="False”
+Wes_Email="279089@burlcoschools.org”
+
+Alex_Name="Alex Dowling"
+Alex_Age="16"
+Grade="Junior"
+Alex_DL="Probably not"
+Alex_Email="279235@burlcoschools.org" 
+
+Dylan_Name="Dylan Guzman"
+Dylan_Age="16"
+Dylan_Grade="11th"
+Dylan_DL="None"
+Dylan_Email="278509@burlcoschools.org"
+
+Tyler_Name="Tyler Keane"
+Tyler_Age="17"
+Tyler_Grade="11th"
+Tyler_Driver’s License="False"
+Tyler_Email="269260@burlcoschools.org"
+
+Abraham_Name="Abraham Esparra" 
+Abraham_Age="16"
+Abraham_Grade="Junior" 
+Abraham_DL="None" 
+Abraham_Email="269360@burlcoschools.org" 
+
+Brandon_Name="Brandon Cox"
+Brandon_Age="17"
+Brandon_Grade="Junior"
+Brandon_DL="True"
+Brandon_Email="278583@burlcoschools.org"
