@@ -14,7 +14,7 @@ Andrew_DL="No"
 Andrew_Email="278430@burlcoschools.org"
 
 Chris_Name="Chris Davis"
-Chris_Age:="16"
+Chris_Age="16"
 Chris_Grade="Junior"
 Chris_DL="False"
 Chris_Email="269329@burlcoschools.org"
@@ -25,15 +25,15 @@ Martins_Grade="Super Senior"
 Martins_DL="Nope"
 Martins_Email="278827@burlcoschools.org"
 
-Wes_Name="Wes Spaugh”
-Wes_Age="16”
-Wes_Grade="11th”
-Wes_DL="False”
-Wes_Email="279089@burlcoschools.org”
+Wes_Name="Wes Spaugh"
+Wes_Age="16"
+Wes_Grade="11th"
+Wes_DL="False"
+Wes_Email="279089@burlcoschools.org"
 
 Alex_Name="Alex Dowling"
 Alex_Age="16"
-Grade="Junior"
+Alex_Grade="Junior"
 Alex_DL="Probably not"
 Alex_Email="279235@burlcoschools.org" 
 
@@ -46,7 +46,7 @@ Dylan_Email="278509@burlcoschools.org"
 Tyler_Name="Tyler Keane"
 Tyler_Age="17"
 Tyler_Grade="11th"
-Tyler_Driver’s License="False"
+Tyler_DL="False"
 Tyler_Email="269260@burlcoschools.org"
 
 Abraham_Name="Abraham Esparra" 
@@ -60,3 +60,85 @@ Brandon_Age="17"
 Brandon_Grade="Junior"
 Brandon_DL="True"
 Brandon_Email="278583@burlcoschools.org"
+
+#Print variables
+print("ADDRESS BOOK")
+print("-----------------------------------------")
+print("Name: "+Caleb_Name)
+print("Age: "+Caleb_Age)
+print("Grade: "+Caleb_Grade)
+print("Has Drivers license: "+Caleb_DL)
+print("Email: "+Caleb_Email)
+print("-----------------------------------------")
+print("\n")
+print("-----------------------------------------")
+print("Name: "+Andrew_Name)
+print("Age: "+Andrew_Age)
+print("Grade: "+Andrew_Grade)
+print("Has Drivers license: "+Andrew_DL)
+print("Email: "+Andrew_Email)
+print("-----------------------------------------")
+print("\n")
+print("-----------------------------------------")
+print("Name: "+Chris_Name)
+print("Age: "+Chris_Age)
+print("Grade: "+Chris_Grade)
+print("Has Drivers license: "+Chris_DL)
+print("Email: "+Chris_Email)
+print("-----------------------------------------")
+print("\n")
+print("-----------------------------------------")
+print("Name: "+Martins_Name)
+print("Age: "+Martins_Age)
+print("Grade: "+Martins_Grade)
+print("Has Drivers license: "+Martins_DL)
+print("Email: "+Martins_Email)
+print("-----------------------------------------")
+print("\n")
+print("-----------------------------------------")
+print("Name: "+Wes_Name)
+print("Age: "+Wes_Age)
+print("Grade: "+Wes_Grade)
+print("Has Drivers license: "+Wes_DL)
+print("Email: "+Wes_Email)
+print("-----------------------------------------")
+print("\n")
+print("-----------------------------------------")
+print("Name: "+Alex_Name)
+print("Age: "+Alex_Age)
+print("Grade: "+Alex_Grade)
+print("Has Drivers license: "+Alex_DL)
+print("Email: "+Alex_Email)
+print("-----------------------------------------")
+print("\n")
+print("-----------------------------------------")
+print("Name: "+Dylan_Name)
+print("Age: "+Dylan_Age)
+print("Grade: "+Dylan_Grade)
+print("Has Drivers license: "+Dylan_DL)
+print("Email: "+Dylan_Email)
+print("-----------------------------------------")
+print("\n")
+print("-----------------------------------------")
+print("Name: "+Tyler_Name)
+print("Age: "+Tyler_Age)
+print("Grade: "+Tyler_Grade)
+print("Has Drivers license: "+Tyler_DL)
+print("Email: "+Tyler_Email)
+print("-----------------------------------------")
+print("\n")
+print("-----------------------------------------")
+print("Name: "+Abraham_Name)
+print("Age: "+Abraham_Age)
+print("Grade: "+Abraham_Grade)
+print("Has Drivers license: "+Abraham_DL)
+print("Email: "+Abraham_Email)
+print("-----------------------------------------")
+print("\n")
+print("-----------------------------------------")
+print("Name: "+Brandon_Name)
+print("Age: "+Brandon_Age)
+print("Grade: "+Brandon_Grade)
+print("Has Drivers license: "+Brandon_DL)
+print("Email: "+Brandon_Email)
+print("-----------------------------------------")
